@@ -1,5 +1,11 @@
 # DTI
 
+Run the code using either of the two approaches:
+<ol>
+  
+  <li>Using colab notebook - <i>OpenBioLink_Ampligraph_ComplEx.ipynb</i> </li>
+
+ <li> Using a script: 
 <ul>
 <li><i>run.sh </i>- shell script containing the commands to run the model
   - arguments are the following:
@@ -13,3 +19,5 @@
   <li><i> requirements.txt </i> - required python libraries that should be installed </li>
   <li><i> openbiolink_ampligraph.py </i> - the python script to be run </li>
 </ul>
+  </li>
+  </ol>
