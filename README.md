@@ -7,7 +7,7 @@
 <ol> 
  <li> <strong> epochs </strong> - number of epochs for model training  </li>
     <li> <strong> save-dir </strong> - path to file where to save the model (ex. ./complex_model_OpenBioLink.pkl) </li>
-               <li> <strong> output </strong> - path to file where to save the output from performing model evaluation  </li> 
+               <li> <strong> output </strong> - path to file where to save the output from performing model evaluation (ex. /complex_model_output.npy)  </li> 
 </ol> </li>
   
   <li><i> requirements.txt </i> - required python libraries that should be installed </li>
